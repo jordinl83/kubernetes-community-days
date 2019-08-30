@@ -15,5 +15,4 @@ published: true
 
 Some content.
 
-Test Editing
-
+Test editing

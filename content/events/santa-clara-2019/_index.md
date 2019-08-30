@@ -1,8 +1,8 @@
 ---
 title: Kubernetes Community Day Santa Clara
 tag: santa-clara-2019
-date: {}
-end: {}
+date: 2019-08-23
+end: 2019-08-24
 location:
   url: >-
     https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-california.html

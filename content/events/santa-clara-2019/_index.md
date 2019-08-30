@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Community Day Santa Clara
 tag: santa-clara-2019
-date: 2019-08-23
+date: '2019-08-23'
 end: 2019-08-24
 location:
   url: >-
